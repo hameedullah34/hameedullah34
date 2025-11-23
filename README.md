@@ -21,7 +21,7 @@ Right now, I’m focused on mastering **JavaScript** and **React**, while streng
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hameedullah34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hameedullah34) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hameedullah34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hameedullah34) 
 
 ---
 
@@ -47,11 +47,11 @@ Right now, I’m focused on mastering **JavaScript** and **React**, while streng
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true&font=Inter)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hameedullah34&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hameedullah34&theme=radical&hide_border=false&font=Inter)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&font=Inter)
 
 ## 🏆 GitHub Trophies
 
