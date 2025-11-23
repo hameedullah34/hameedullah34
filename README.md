@@ -1,8 +1,4 @@
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=hameedullah34&color=blueviolet&label=Profile+Views)
-
-</div>
 
 ---
 
@@ -19,23 +15,17 @@ Right now, I’m focused on mastering **JavaScript** and **React**, while streng
 **My goals are pretty straightforward:**
 * 🚀 Keep improving daily and building real-world projects.
 * 💻 Become a strong developer who creates user-friendly applications.
-* 🐛 whenever I’m not coding, you’ll probably find me learning something new, fixing bugs I accidentally created, or leveling up my tech skills one step at a time.
+* 🐛 Whenever I’m not coding, you’ll probably find me learning something new, fixing bugs I accidentally created, or leveling up my tech skills one step at a time.
 
 ---
 
 ## 🌐 Connect with me:
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hameedullah34) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hameedullah34) 
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hameedullah34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hameedullah34) 
 
 ---
 
 # 💻 Tech Stack:
-
-<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,13 +43,9 @@ Right now, I’m focused on mastering **JavaScript** and **React**, while streng
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
 # 📊 GitHub Stats:
-
-<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -67,19 +53,10 @@ Right now, I’m focused on mastering **JavaScript** and **React**, while streng
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hameedullah34&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
 ## 🏆 GitHub Trophies
-<div align="center"> 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hameedullah34&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
-
 ---
 
-<div align="center">
-    
 [![](https://visitcount.itsvg.in/api?id=hameedullah34&icon=0&color=13)](https://visitcount.itsvg.in)
-
-</div>
